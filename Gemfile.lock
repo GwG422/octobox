@@ -324,7 +324,7 @@ GEM
     thor (0.20.3)
     thread_safe (0.3.6)
     thwait (0.1.0)
-    tilt (2.0.10)
+    tilt (2.1.0)
     timecop (0.9.1)
     turbolinks (5.2.1)
       turbolinks-source (~> 5.2)
